@@ -1,4 +1,4 @@
-# 🛍️ ShopEase E-Commerce Sales Analysis
+# 🛍️ ShopEase E-Commerce Sales Analysis-Python
 
 ## 📌 Project Overview
 This project analyzes an e-commerce sales dataset to explore sales performance, product categories, customer demographics, order details, and business insights using Python.
