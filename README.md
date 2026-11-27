@@ -4,7 +4,9 @@
 This project analyzes an e-commerce sales dataset to explore sales performance, product categories, customer demographics, order details, and business insights using Python.
 
 The goal of this project is to practice data analysis techniques and transform raw data into meaningful insights that can help businesses make better decisions.
+## 📈 Project Visualization
 
+![Sales by Product Category](screenshots/sales_chart.png)
 ## 🎯 Project Objectives
 - Explore and understand the e-commerce dataset.
 - Analyze total order value across product categories.
