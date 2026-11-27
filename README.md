@@ -115,10 +115,15 @@ Through this project, I practiced exploring datasets, grouping and summarizing d
 
 This project helped me strengthen my practical Python and data analytics skills.
 
-## 👩‍💻 About Me
-I am a BCA graduate and aspiring Data Analyst, currently developing my skills in Excel, SQL, Python, and Power BI. I enjoy learning data analytics and building hands-on projects to improve my skills and gain practical experience.
+## 📬 Author and Contact with me 
+veerpal Gill
 
-## 📬 Connect With Me
+Aspiring Data Analyst
+
+Email veerpalgill963@gmail.com
+
+www.linkedin.com/in/veerpal-gill
+
 I am open to entry-level opportunities, internships, and learning experiences in Data Analytics, MIS, and Reporting.
 
 Thank you for visiting my project! ⭐
