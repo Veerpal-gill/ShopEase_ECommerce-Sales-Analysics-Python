@@ -5,6 +5,7 @@ This project analyzes an e-commerce sales dataset to explore sales performance, 
 
 The goal of this project is to practice data analysis techniques and transform raw data into meaningful insights that can help businesses make better decisions.
 ## 📈 Project Visualization
+![ShopEase Ecommerce_sales analysis](https://github.com/Veerpal-gill/inventory-supplier-analysis-sql/blob/c5232954b4af6b17ab9470a490753d1dfc998e75/inventory%20and%20supplier%20project1.png)
 
 ![Sales by Product Category](screenshots/sales_chart.png)
 ## 🎯 Project Objectives
