@@ -5,9 +5,8 @@ This project analyzes an e-commerce sales dataset to explore sales performance, 
 
 The goal of this project is to practice data analysis techniques and transform raw data into meaningful insights that can help businesses make better decisions.
 ## 📈 Project Visualization
-![ShopEase Ecommerce_sales analysics(https://github.com/Veerpal-gill/ShopEase_ECommerce-Sales-Analysics/blob/33d43682b6b45cfa4f5494aa94eeffba6302e47f/Screenshot%202026-11-26%20203247.png)
+![ShopEase Ecommerce_sales analysics(https://github.com/Veerpal-gill/ShopEase_ECommerce-Sales-Analysics/blob/33d43682b6b45cfa4f5494aa94eeffba6302e47f/Screenshot%202026-11-26%20203247.png)]
 
-![Sales by Product Category](screenshots/sales_chart.png)
 ## 🎯 Project Objectives
 - Explore and understand the e-commerce dataset.
 - Analyze total order value across product categories.
